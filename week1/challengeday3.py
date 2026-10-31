@@ -1,4 +1,4 @@
-week1/user = input("Enter a word:")
+user = input("Enter a word:")
 letters = {}
 for i, letter in enumerate(user):
   
